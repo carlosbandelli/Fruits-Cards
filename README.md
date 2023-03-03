@@ -4,7 +4,6 @@
 
  Projeto comsumo de API externa 
  
- <a href="https://glittering-cheesecake-53646f.netlify.app/">Clique aqui para acessar a pagina e ver minha aplicação</a>
 
 
 <a href="https://github.com/carlosbandelli">
